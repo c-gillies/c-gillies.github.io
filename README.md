@@ -7,3 +7,5 @@ I took some creative liberties with the assignment:
 
 I had to use negative margins in the Locations section of the CSS to get the text positioned the way I wanted. Any tips
 on how to do this better would be appreciated!
+
+Any other tips on making my code more efficient are most welcome as well.
